@@ -1,0 +1,451 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|c:\\users\\rvargas\\source\\repos\\logisticaapi\\logisticaapi\\middlewares\\tokenvalidationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|solutionrelative:logisticaapi\\middlewares\\tokenvalidationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|c:\\users\\rvargas\\source\\repos\\logisticaapi\\logisticaapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|solutionrelative:logisticaapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|c:\\users\\rvargas\\source\\repos\\logisticaapi\\logisticaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|solutionrelative:logisticaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|c:\\users\\rvargas\\source\\repos\\logisticaapi\\logisticaapi\\controllers\\enviomaritimoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|solutionrelative:logisticaapi\\controllers\\enviomaritimoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|c:\\users\\rvargas\\source\\repos\\logisticaapi\\logisticaapi\\models\\enviomaritimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|solutionrelative:logisticaapi\\models\\enviomaritimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|c:\\users\\rvargas\\source\\repos\\logisticaapi\\logisticaapi\\models\\envioterrestre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|solutionrelative:logisticaapi\\models\\envioterrestre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|c:\\users\\rvargas\\source\\repos\\logisticaapi\\logisticaapi\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|solutionrelative:logisticaapi\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|c:\\users\\rvargas\\source\\repos\\logisticaapi\\logisticaapi\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|solutionrelative:logisticaapi\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|c:\\users\\rvargas\\source\\repos\\logisticaapi\\logisticaapi\\models\\puerto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|solutionrelative:logisticaapi\\models\\puerto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|c:\\users\\rvargas\\source\\repos\\logisticaapi\\logisticaapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|solutionrelative:logisticaapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|c:\\users\\rvargas\\source\\repos\\logisticaapi\\logisticaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|solutionrelative:logisticaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|c:\\users\\rvargas\\source\\repos\\logisticaapi\\logisticaapi\\logisticaapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|solutionrelative:logisticaapi\\logisticaapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|c:\\users\\rvargas\\source\\repos\\logisticaapi\\logisticaapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|solutionrelative:logisticaapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|c:\\users\\rvargas\\source\\repos\\logisticaapi\\logisticaapi\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|solutionrelative:logisticaapi\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|c:\\users\\rvargas\\source\\repos\\logisticaapi\\logisticaapi\\controllers\\envioterrestrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|solutionrelative:logisticaapi\\controllers\\envioterrestrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|c:\\users\\rvargas\\source\\repos\\logisticaapi\\logisticaapi\\controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|solutionrelative:logisticaapi\\controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|c:\\users\\rvargas\\source\\repos\\logisticaapi\\logisticaapi\\jwtbearerdefaults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|solutionrelative:logisticaapi\\jwtbearerdefaults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|c:\\users\\rvargas\\source\\repos\\logisticaapi\\logisticaapi\\controllers\\bodegascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|solutionrelative:logisticaapi\\controllers\\bodegascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|c:\\users\\rvargas\\source\\repos\\logisticaapi\\logisticaapi\\models\\bodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|solutionrelative:logisticaapi\\models\\bodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|c:\\users\\rvargas\\source\\repos\\logisticaapi\\logisticaapi\\migrations\\20250423164713_agregarcamposdescuento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|solutionrelative:logisticaapi\\migrations\\20250423164713_agregarcamposdescuento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|c:\\users\\rvargas\\source\\repos\\logisticaapi\\logisticaapi\\migrations\\20250423162803_creartablaenviomaritimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|solutionrelative:logisticaapi\\migrations\\20250423162803_creartablaenviomaritimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|c:\\users\\rvargas\\source\\repos\\logisticaapi\\logisticaapi\\migrations\\20250423162258_creartablaenvioterrestre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|solutionrelative:logisticaapi\\migrations\\20250423162258_creartablaenvioterrestre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|c:\\users\\rvargas\\source\\repos\\logisticaapi\\logisticaapi\\migrations\\20250423161919_creartablapuerto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|solutionrelative:logisticaapi\\migrations\\20250423161919_creartablapuerto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|c:\\users\\rvargas\\source\\repos\\logisticaapi\\logisticaapi\\migrations\\20250423161231_creartablabodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|solutionrelative:logisticaapi\\migrations\\20250423161231_creartablabodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|c:\\users\\rvargas\\source\\repos\\logisticaapi\\logisticaapi\\migrations\\20250423155839_creartablaproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|solutionrelative:logisticaapi\\migrations\\20250423155839_creartablaproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|c:\\users\\rvargas\\source\\repos\\logisticaapi\\logisticaapi\\migrations\\20250423152547_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53C93EE-6390-4112-BDEE-CEDD2FB5FF80}|LogisticaApi\\LogisticaApi.csproj|solutionrelative:logisticaapi\\migrations\\20250423152547_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\Program.cs",
+              "RelativeDocumentMoniker": "LogisticaApi\\Program.cs",
+              "ToolTip": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\Program.cs",
+              "RelativeToolTip": "LogisticaApi\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:04:09.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnvioMaritimo.cs",
+              "DocumentMoniker": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\Models\\EnvioMaritimo.cs",
+              "RelativeDocumentMoniker": "LogisticaApi\\Models\\EnvioMaritimo.cs",
+              "ToolTip": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\Models\\EnvioMaritimo.cs",
+              "RelativeToolTip": "LogisticaApi\\Models\\EnvioMaritimo.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:26:54.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnvioMaritimosController.cs",
+              "DocumentMoniker": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\Controllers\\EnvioMaritimosController.cs",
+              "RelativeDocumentMoniker": "LogisticaApi\\Controllers\\EnvioMaritimosController.cs",
+              "ToolTip": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\Controllers\\EnvioMaritimosController.cs",
+              "RelativeToolTip": "LogisticaApi\\Controllers\\EnvioMaritimosController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAADwv1gAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:28:36.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "LogisticaApi\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "LogisticaApi\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:09:23.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TokenValidationMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\Middlewares\\TokenValidationMiddleware.cs",
+              "RelativeDocumentMoniker": "LogisticaApi\\Middlewares\\TokenValidationMiddleware.cs",
+              "ToolTip": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\Middlewares\\TokenValidationMiddleware.cs",
+              "RelativeToolTip": "LogisticaApi\\Middlewares\\TokenValidationMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:52:37.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnvioTerrestre.cs",
+              "DocumentMoniker": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\Models\\EnvioTerrestre.cs",
+              "RelativeDocumentMoniker": "LogisticaApi\\Models\\EnvioTerrestre.cs",
+              "ToolTip": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\Models\\EnvioTerrestre.cs",
+              "RelativeToolTip": "LogisticaApi\\Models\\EnvioTerrestre.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswCQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:21:37.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "LogisticaApi\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\Models\\Cliente.cs",
+              "RelativeToolTip": "LogisticaApi\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:12:56.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "LogisticaApi\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\Models\\Producto.cs",
+              "RelativeToolTip": "LogisticaApi\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:57:17.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Puerto.cs",
+              "DocumentMoniker": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\Models\\Puerto.cs",
+              "RelativeDocumentMoniker": "LogisticaApi\\Models\\Puerto.cs",
+              "ToolTip": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\Models\\Puerto.cs",
+              "RelativeToolTip": "LogisticaApi\\Models\\Puerto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:18:06.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "LogisticaApi\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\WeatherForecast.cs",
+              "RelativeToolTip": "LogisticaApi\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:15:14.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\appsettings.json",
+              "RelativeDocumentMoniker": "LogisticaApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\appsettings.json",
+              "RelativeToolTip": "LogisticaApi\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-23T15:07:26.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LogisticaApi.http",
+              "DocumentMoniker": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\LogisticaApi.http",
+              "RelativeDocumentMoniker": "LogisticaApi\\LogisticaApi.http",
+              "ToolTip": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\LogisticaApi.http",
+              "RelativeToolTip": "LogisticaApi\\LogisticaApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-05T14:37:54.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "LogisticaApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\appsettings.Development.json",
+              "RelativeToolTip": "LogisticaApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-05T14:37:49.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "LogisticaApi\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "LogisticaApi\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:46:43.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EnvioTerrestresController.cs",
+              "DocumentMoniker": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\Controllers\\EnvioTerrestresController.cs",
+              "RelativeDocumentMoniker": "LogisticaApi\\Controllers\\EnvioTerrestresController.cs",
+              "ToolTip": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\Controllers\\EnvioTerrestresController.cs",
+              "RelativeToolTip": "LogisticaApi\\Controllers\\EnvioTerrestresController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:23:57.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductoesController.cs",
+              "DocumentMoniker": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\Controllers\\ProductoesController.cs",
+              "RelativeDocumentMoniker": "LogisticaApi\\Controllers\\ProductoesController.cs",
+              "ToolTip": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\Controllers\\ProductoesController.cs",
+              "RelativeToolTip": "LogisticaApi\\Controllers\\ProductoesController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:00:26.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JwtBearerDefaults.cs",
+              "DocumentMoniker": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\JwtBearerDefaults.cs",
+              "RelativeDocumentMoniker": "LogisticaApi\\JwtBearerDefaults.cs",
+              "ToolTip": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\JwtBearerDefaults.cs",
+              "RelativeToolTip": "LogisticaApi\\JwtBearerDefaults.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:28:57.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250423164713_AgregarCamposDescuento.cs",
+              "DocumentMoniker": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\Migrations\\20250423164713_AgregarCamposDescuento.cs",
+              "RelativeDocumentMoniker": "LogisticaApi\\Migrations\\20250423164713_AgregarCamposDescuento.cs",
+              "ToolTip": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\Migrations\\20250423164713_AgregarCamposDescuento.cs",
+              "RelativeToolTip": "LogisticaApi\\Migrations\\20250423164713_AgregarCamposDescuento.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:47:13.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250423162803_CrearTablaEnvioMaritimo.cs",
+              "DocumentMoniker": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\Migrations\\20250423162803_CrearTablaEnvioMaritimo.cs",
+              "RelativeDocumentMoniker": "LogisticaApi\\Migrations\\20250423162803_CrearTablaEnvioMaritimo.cs",
+              "ToolTip": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\Migrations\\20250423162803_CrearTablaEnvioMaritimo.cs",
+              "RelativeToolTip": "LogisticaApi\\Migrations\\20250423162803_CrearTablaEnvioMaritimo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:28:03.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250423162258_CrearTablaEnvioTerrestre.cs",
+              "DocumentMoniker": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\Migrations\\20250423162258_CrearTablaEnvioTerrestre.cs",
+              "RelativeDocumentMoniker": "LogisticaApi\\Migrations\\20250423162258_CrearTablaEnvioTerrestre.cs",
+              "ToolTip": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\Migrations\\20250423162258_CrearTablaEnvioTerrestre.cs",
+              "RelativeToolTip": "LogisticaApi\\Migrations\\20250423162258_CrearTablaEnvioTerrestre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:22:58.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250423161919_CrearTablaPuerto.cs",
+              "DocumentMoniker": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\Migrations\\20250423161919_CrearTablaPuerto.cs",
+              "RelativeDocumentMoniker": "LogisticaApi\\Migrations\\20250423161919_CrearTablaPuerto.cs",
+              "ToolTip": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\Migrations\\20250423161919_CrearTablaPuerto.cs",
+              "RelativeToolTip": "LogisticaApi\\Migrations\\20250423161919_CrearTablaPuerto.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:19:19.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BodegasController.cs",
+              "DocumentMoniker": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\Controllers\\BodegasController.cs",
+              "RelativeDocumentMoniker": "LogisticaApi\\Controllers\\BodegasController.cs",
+              "ToolTip": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\Controllers\\BodegasController.cs",
+              "RelativeToolTip": "LogisticaApi\\Controllers\\BodegasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:13:38.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Bodega.cs",
+              "DocumentMoniker": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\Models\\Bodega.cs",
+              "RelativeDocumentMoniker": "LogisticaApi\\Models\\Bodega.cs",
+              "ToolTip": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\Models\\Bodega.cs",
+              "RelativeToolTip": "LogisticaApi\\Models\\Bodega.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:11:09.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250423161231_CrearTablaBodega.cs",
+              "DocumentMoniker": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\Migrations\\20250423161231_CrearTablaBodega.cs",
+              "RelativeDocumentMoniker": "LogisticaApi\\Migrations\\20250423161231_CrearTablaBodega.cs",
+              "ToolTip": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\Migrations\\20250423161231_CrearTablaBodega.cs",
+              "RelativeToolTip": "LogisticaApi\\Migrations\\20250423161231_CrearTablaBodega.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:12:31.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250423155839_CrearTablaProducto.cs",
+              "DocumentMoniker": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\Migrations\\20250423155839_CrearTablaProducto.cs",
+              "RelativeDocumentMoniker": "LogisticaApi\\Migrations\\20250423155839_CrearTablaProducto.cs",
+              "ToolTip": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\Migrations\\20250423155839_CrearTablaProducto.cs",
+              "RelativeToolTip": "LogisticaApi\\Migrations\\20250423155839_CrearTablaProducto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:58:39.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20250423152547_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\Migrations\\20250423152547_Inicial.cs",
+              "RelativeDocumentMoniker": "LogisticaApi\\Migrations\\20250423152547_Inicial.cs",
+              "ToolTip": "C:\\Users\\rvargAS\\source\\repos\\LogisticaApi\\LogisticaApi\\Migrations\\20250423152547_Inicial.cs",
+              "RelativeToolTip": "LogisticaApi\\Migrations\\20250423152547_Inicial.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T15:25:47.888Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

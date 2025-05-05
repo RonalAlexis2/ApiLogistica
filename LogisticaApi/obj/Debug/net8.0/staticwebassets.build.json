@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "7S4M1pqq995Byvj6d7WuYSKdUBABNckhZAO7rXr2Fp8=",
+  "Source": "LogisticaApi",
+  "BasePath": "_content/LogisticaApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
