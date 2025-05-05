@@ -1,6 +1,12 @@
 # 🚚 Proyecto de Logística - Gestión de Clientes y Productos
 
-Este proyecto es una solución completa para la gestión de logística terrestre y marítima. Incluye un backend desarrollado con ASP.NET Core y un frontend en React.
+Este proyecto es una solución completa para la gestión de logística terrestre y marítima. Incluye:
+
+Un backend desarrollado con ASP.NET Core y Entity Framework Core.
+
+Un frontend en React para la interacción con usuarios.
+
+🧠 Este proyecto fue desarrollado como parte de un proceso de aprendizaje, aprovechando herramientas de inteligencia artificial como ChatGPT para reforzar conocimientos, resolver problemas técnicos y mejorar la productividad.
 
 ## 📁 Estructura del Proyecto
 
